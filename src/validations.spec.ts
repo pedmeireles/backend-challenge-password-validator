@@ -8,7 +8,7 @@ import {
   nonRepeatedCharacter,
 } from './validations';
 
-const TEST_CASE_SCENARIOS = {
+export const TEST_CASE_SCENARIOS = {
   NUMBER: '1',
   LOWERCASE_LETTER: 'a',
   UPPERCASE_LETTER: 'A',
